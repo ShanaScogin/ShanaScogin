@@ -1,10 +1,10 @@
 ### Welcome! 👋
 
 - I'm a PhD Candidate writing a [dissertation](https://shanascogin.com/dissertation/) on the politics of post-earthquake reconstruction in Nepal. 
-- I love making stats R packages! Check out my packages below and email me if you want to collaborate on one together. 
+- I love making stats R packages! Email me if you want to collaborate on one together. 
 - This spring, I'm learning natural language processing in Python and R and am working more with GIS spatial data in ArcGIS. I'm also working on a new function for our [Bayesian statistics post-estimation package](https://github.com/ShanaScogin/BayesPostEst).
 - My name is pronounced "Sha-nuh," and my pronouns are she/her.
-- Feel free to email me (sscogin@nd.edu) and introduce yourself!
+- I love meeting new people and hearing about other projects! Feel free to email me (sscogin@nd.edu) and introduce yourself!
 
 
 <!--
