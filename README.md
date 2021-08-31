@@ -1,9 +1,9 @@
 ### Welcome! 👋
 
 - I'm a PhD Candidate writing a [dissertation](https://shanascogin.com/dissertation/) on the politics of post-earthquake reconstruction in Nepal. 
-- I love making stats R packages! Email me if you want to collaborate on one together. 
-- This fall, I'm learning Portuguese, collaborating on a paper looking at urban water crises, and working on a paper about mutlilevel models.
-- My name is pronounced "Sha-nuh" (though I also go by my middle name "Rachael") and my pronouns are she/her.
+- I love making stats R packages!
+- This fall, I'm learning Portuguese, collaborating on a project about urban water crises, and working on a paper about mutlilevel models. I'm also an [NDIAS Fellow](https://ndias.nd.edu/fellowships/themes/2021-2022-resilience/) where I meet weekly with an interdiscipinary group of scholars to discuss our research and themes of resilience.
+- My name is pronounced "Sha-nuh" (you can also call me by my middle name, Rachael, or Shana Rachael) and my pronouns are she/her.
 - I love meeting new people and hearing about other projects - Feel free to email me (sscogin@nd.edu) and introduce yourself!
 
 
