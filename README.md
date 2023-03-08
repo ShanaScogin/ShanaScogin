@@ -1,9 +1,9 @@
 ### Welcome! 👋
 
-- I'm a PhD Candidate writing a [dissertation](https://shanascogin.com/dissertation/) on the politics of post-earthquake reconstruction in Nepal. 
+- I'm a PhD Candidate in Comparative Politics (with two second fields in methods and theory) writing a [dissertation](https://shanascogin.com/dissertation/) on the politics of post-earthquake reconstruction in Nepal. 
 - I love making stats R packages! I am an author and the maintainer of two called modeLLtest and BayesPostEst, and I maintain a third called coxrobust.
-- I am currently based in the Kathmandu Valley, Nepal to conduct collect data for my dissertation and to work on a joint project on early earthquake warning with Duke University and the Institute of Engineering.
-- I am on the job market this year. For more, please see my [website](https://shanascogin.com/) or email me (sscogin@nd.edu) for my materials.
+- I was based in the Kathmandu Valley, Nepal in 2022 to conduct collect data for my dissertation and to work on a joint project on earthquake early warning with Duke University and the Institute of Engineering. I'll also be back in Nepal for the summer of 2023. Send me a message if you're in town!
+- I am on the job market! For more, please see my [website](https://shanascogin.com/) or email me (sscogin@nd.edu) for my materials.
 - I love meeting new people and hearing about other projects - Feel free to email me (sscogin@nd.edu) and introduce yourself!
 
 
