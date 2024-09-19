@@ -4,7 +4,7 @@
 - I love making stats R packages! I am an author and the maintainer of two called modeLLtest and BayesPostEst, and I maintain a third called coxrobust. The BayesPostEst package is due for an update to CRAN.
 - I was based in the Kathmandu Valley, Nepal in 2022 and part of 2023 to conduct collect data for my dissertation and to work on a joint project on earthquake early warning with Duke University and the Institute of Engineering (IoE). In 2024, I accompanied a group of engineering and data science undergraduates from Duke to Nepal to meet up with students and recent graduates from IoE to help guide an interdisciplinary workshop held by the Duke-IoE Geo Lab.
 - I have solo-authored and collaborative research published in *Disasters* and *Global Environmental Politics*.
-- I am on the job market this year. Please visit my [website](https://shanascogin.com/) or email me (sscogin@nd.edu) if you're interested in seeing more of my work or job market materials.
+- I am on the job market this year. Please visit my [website](https://shanascogin.com/) or email me (sscogin@upenn.edu) if you're interested in seeing more of my work or materials.
 - And - last but not least - if you have any questions, issues, or suggestions with/for my R packages - please don't hesitate to submit an issue or message me. I enjoy collaborating to make things better and more accessable. 
 
 
